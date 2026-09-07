@@ -38,8 +38,8 @@ A collection of popular slang terms and acronyms used primarily by Generation Z.
 The dataset was compiled for fine-tuning a GenZ slang generator model. Additional example and context columns were added by scraping publicly available websites and using generative AI.
 
 ### Additional Original Sources
-1. Social Media Slangs and Acronyms ([Kaggle – Muhammad Rizwan](https://www.kaggle.com))
-2. GenZ Dataset (`caspercool`)
+1. Social Media Slangs and Acronyms ([Kaggle – Muhammad Rizwan](https://www.kaggle.com/datasets/rizdelhi/socialmediaabbrevations))
+2. GenZ Dataset (`[caspercool]` (https://github.com/kaspercools/genz-dataset) )
 
 ---
 
